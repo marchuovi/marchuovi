@@ -1,5 +1,8 @@
-<h1 align="center">Hola, mi nombre es Maricarmen Chueco 👋</h1>
-<h3 align="center">Diseñadora gráfica digital 👩‍💻 JR Full Stack Developer y apasionada creativa 🔧 UX UI</h3>
+<h4 align="center">👋 Hola, gracias por aterrizar en mi perfil 🚀</h4>
+
+<h3 align="center"> 💙Mi nombre es Maricarmen💙</h3>
+<h3 align="center"> 👩‍💻 Soy Diseñadora gráfica digital 🔧 JR Full Stack Developer y apasionada creativa</h3>
+
 
 - 💬 Pregúntame sobre **HTML/CSS · React · PHP · VSC · JS · Figma · WordPress · Diseño**
 
