@@ -3,9 +3,9 @@
 
 - 💬 Pregúntame sobre **HTML/CSS · React · PHP · VSC · JS · Figma · WordPress · Diseño**
 
-- 📫 Cómo contactarme **mchuecooviedo@gmail.com**
+- 📫 Escríbeme a  **mchuecooviedo@gmail.com**
 
-- 📄 Conoce mis experiencias [https:// acortar.link/WVSs5W](https://acortar.link/WVSs5W)
+- 📄 Aquí mi CV [https:// acortar.link/WVSs5W](https://acortar.link/WVSs5W)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
