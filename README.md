@@ -12,8 +12,8 @@ Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener
 
 
 <h3 align="left">▸Estoy aquí</h3>
-<p align="left"> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/mchuecooviedo@gmail.com_(en minúscula)-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a> <br>
-<a href='https://www.linkedin.com/in/maricarmenchueco/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a> <br>
+<p align="left"> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/mchuecooviedo@gmail.com_(en minúsculas)-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=000000'/></a>  <br>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/@maricarmenchueco-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=000000'/></a> <br>
 <a href='https://www.linkedin.com/in/maricarmenchueco/overlay/1635520218799/single-media-viewer/?profileId=ACoAACeKA2sBVpqhOG4FuGMTTibgD2M989mVZCE' target="_blank"><img alt='' src='https://img.shields.io/badge/curriculum-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=86BFDD&color=86BFDD'/></a></p>
 
 <h3 align="left">▸Herramientas y tecnologías:</h3>
