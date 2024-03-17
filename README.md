@@ -21,5 +21,5 @@ Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener
 
 
 <h3 align="left">▸Estoy aquí</h3>
-<p align="left"> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/mchuecooviedo@gmail.com_(en minúsculas)-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=000000'/></a>  <br>
+<p align="left"> <a href='#' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/mchuecooviedo@gmail.com_(en minúsculas)-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335&color=000000'/></a>  <br>
 <a href='https://www.linkedin.com/in/maricarmenchueco/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/@maricarmenchueco-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=000000'/></a></p>
