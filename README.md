@@ -11,4 +11,6 @@ Después de un tiempo dedicado al diseño y atraída por mi experiencia en maque
 Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener nuevos retos en mi horizonte. 
 
 <h3 align="left">▸Conoce mis habilidades y perfil</h3>
-<a href='https://portfolio.maricarmenchueco.com/' target="_blank"><img alt='' src='https://img.shields.io/badge/Portfolios-100000?style=flat&logo=&logoColor=61DAFB&labelColor=361BD3&color=000000'/></a>
+<a href='#' target="_blank"><img alt='' src='https://img.shields.io/badge/Portfolios-100000?style=flat&logo=&logoColor=61DAFB&labelColor=361BD3&color=000000'/></a>
+
+<a href='https://portfolio.maricarmenchueco.com/wp-content/uploads/2023/06/CV-maricarmen-chueco-Full-stack-JR-Web-Designer-UI-UX.pdf' target="_blank"><img alt='' src='https://img.shields.io/badge/Aquí_mi CV-100000?style=flat&logo=&logoColor=61DAFB&labelColor=FF0DF7&color=000000'/></a>
