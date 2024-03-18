@@ -9,3 +9,5 @@ Siempre he sido creativa, por eso empecé a estudiar Bellas Artes y seguí con e
 Después de un tiempo dedicado al diseño y atraída por mi experiencia en maquetación/ diseño orientado a la web, decidí subir un escalón en mi trayectoria profesional y meterme de lleno en la programación. Hice el bootcamp de Full Stack developer, que me ha permitido tener un perfil híbrido y plural que se nutre del código y de las bases del diseño. Me flipa el código desde entonces, la diversidad de lenguajes con la combinación de herramientas y código para crear un solo proyecto.
 
 Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener nuevos retos en mi horizonte. 
+
+<h3 align="left">▸Conoce mis habilidades y perfil</h3>
