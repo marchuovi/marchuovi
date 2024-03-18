@@ -16,4 +16,6 @@ Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener
 <a href='https://portfolio.maricarmenchueco.com/wp-content/uploads/2023/06/CV-maricarmen-chueco-Full-stack-JR-Web-Designer-UI-UX.pdf' target="_blank"><img alt='' src='https://img.shields.io/badge/Aquí_mi CV-100000?style=flat&logo=&logoColor=61DAFB&labelColor=FF0DF7&color=000000'/></a>
 
 <h3 align="left">▸Herramientas</h3>
-<a href='#' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/Aquí_mi CV-100000?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=000000&color=000000'/></a>
+<a href='#' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=000000&color=000000'/></a>  <a href='#' target="_blank"><img alt='React' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=React&logoColor=777BB4&labelColor=000000&color=000000'/></a>  <a href='#' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=F24E1E&labelColor=000000&color=000000'/></a>  <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=000000&color=000000'/></a>
+
+
