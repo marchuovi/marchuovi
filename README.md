@@ -1,5 +1,7 @@
 <img src="https://github.com/marchuovi/marchuovi/assets/116798248/abcadbac-6ece-4a70-9673-af17971d4cbb" data-canonical-src="https://github.com/marchuovi/marchuovi/assets/116798248/abcadbac-6ece-4a70-9673-af17971d4cbb" width="100%" height="" />
 
+<img width="1586" height="396" alt="Image" src="https://github.com/user-attachments/assets/d5a0eccf-f03d-4971-8d71-f99155ef8687" />
+
 <h3 align="left"> 💙Hola, me llamo Maricarmen💙</h3>
 <h2 align="left"> UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
 
