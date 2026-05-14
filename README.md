@@ -2,8 +2,8 @@
 
 <img width="1586" height="396" alt="Image" src="https://github.com/user-attachments/assets/d5a0eccf-f03d-4971-8d71-f99155ef8687" />
 
-<h3 align="left"> 💙Hola, me llamo Maricarmen💙</h3>
-<h2 align="left"> UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
+<h3 align="left"> 🤟​Hola, soy Maricarmen</h3>
+<h2 align="left"> 💙 UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
 
 Voy a dibujar un pequeño esbozo de quién soy 🙂 Siempre he sido creativa, por eso empecé a estudiar Bellas Artes y seguí con el Diseño gráfico pasando por múltiples cápsulas, cursos de formación y especializaciones. Pura adaptación.
 
