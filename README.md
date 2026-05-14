@@ -2,7 +2,7 @@
 
 <h3 align="left"> 🚀 Gracias por aterrizar en mi perfil 🚀</h3>
 <h3 align="left"> 💙Soy Maricarmen💙</h3>
-<h2 align="left"> 👩‍💻 Designer Product | Builder Workpress | JR Web Full Stack | Background Graphic Designer</h2> <br>
+<h2 align="left"> 👩‍💻 UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
 
 Siempre he sido creativa, por eso empecé a estudiar Bellas Artes y seguí con el Diseño gráfico. En todos mis proyectos y obras, prima lo funcional y las soluciones visuales. 
 
