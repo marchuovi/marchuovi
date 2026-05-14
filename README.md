@@ -1,14 +1,15 @@
 <img src="https://github.com/marchuovi/marchuovi/assets/116798248/abcadbac-6ece-4a70-9673-af17971d4cbb" data-canonical-src="https://github.com/marchuovi/marchuovi/assets/116798248/abcadbac-6ece-4a70-9673-af17971d4cbb" width="100%" height="" />
 
-<h3 align="left"> 🚀 Gracias por aterrizar en mi perfil 🚀</h3>
-<h3 align="left"> 💙Soy Maricarmen💙</h3>
-<h2 align="left"> 👩‍💻 UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
+<h3 align="left"> 💙Hola, me llamo Maricarmen💙</h3>
+<h2 align="left"> UX Product Designer | Builder Workpress | Background Graphic Designer</h2> <br>
 
-Siempre he sido creativa, por eso empecé a estudiar Bellas Artes y seguí con el Diseño gráfico. En todos mis proyectos y obras, prima lo funcional y las soluciones visuales. 
+Voy a dibujar un pequeño esbozo de quién soy 🙂 Siempre he sido creativa, por eso empecé a estudiar Bellas Artes y seguí con el Diseño gráfico pasando por múltiples cápsulas, cursos de formación y especializaciones. Pura adaptación.
 
-Después de un tiempo dedicado al diseño y atraída por mi experiencia en maquetación/ diseño orientado a la web, decidí subir un escalón en mi trayectoria profesional y meterme de lleno en la programación. Hice el bootcamp de Full Stack developer, que me ha permitido tener un perfil híbrido y plural que se nutre del código y de las bases del diseño. Me flipa el código desde entonces, la diversidad de lenguajes con la combinación de herramientas y código para crear un solo proyecto.
+Mi experiencia es interdisciplinar ya que he participado activamente en proyectos transversales para diversos sectores tanto de diseño digital orientado a web, como diseño gráfico Retail, incluso Packaging siempre dentro de equipos con distintos roles. En todos mis proyectos prima lo funcional, la usabilidad de lo que diseño aportando soluciones. Aprender distintas herramientas me ha dado diversidad y la habilidad de combinarlas para crear un solo proyecto. 
 
-Me motiva aportar ideas, soluciones, aprender mucho y nuevas herramientas. Tener nuevos retos en mi horizonte. 
+Me motiva aportar ideas, soluciones, no dejar de aprender nuevas herramientas y asumir retos. Soy entusiasta y apasionada de lo que hago. En 2023 formé parte de la Bootcamp de Factoria F5 donde aprendí Desarrollo web. Así puedo complementar y entender mejor el diseño de producto. La llegada de la AI nos ha abierto una nueva puerta que ya he cruzado para complementarla con el diseño/código y reforzar mis skills. Me apasiona mi profesión y mi objetivo personal es mejorar cada día con lo que voy construyendo. 
+
+Llegué a Barcelona en 2014 para conocer nuevos horizontes. ¿caminamos hacia el mismo punto? 
 
 <h3 align="left">▸Conoce mis habilidades y perfil</h3>
 <a href='#' target="_blank"><img alt='' src='https://img.shields.io/badge/Portfolios-100000?style=flat&logo=&logoColor=61DAFB&labelColor=361BD3&color=000000'/></a>
